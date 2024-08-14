@@ -1,0 +1,7 @@
+{
+    "python.testing.pytestArgs": [
+        "cond_alinhadas"
+    ],
+    "python.testing.unittestEnabled": false,
+    "python.testing.pytestEnabled": true
+}
